@@ -26,3 +26,11 @@ main {
 .page-footer {
   padding-top: 5px;
 }
+
+nav ul a {
+  font-size: 1.3rem;
+}
+
+hr {
+  color: orange;
+}
